@@ -1,0 +1,13 @@
+book_id,book_title,book_file,chap_regex,book_length,n_chaps,genre,mood,author,label
+1,"A Game of Thrones, by RR Martin",corpus/MARTIN_A_GAME_OF_THRONES-pg1.txt,[A-Z]+[A-Z]+[A-Z]+,294315,78,fantasy,adventure,RR Martin,"A Game of Thrones, by RR Martin–F"
+2,"A Clash of Kings, by RR Martin",corpus/MARTIN_A_CLASH_OF_KINGS-pg2.txt,[A-Z]+[A-Z]+[A-Z]+,324029,142,fantasy,adventure,RR Martin,"A Clash of Kings, by RR Martin–F"
+3,"A Storm of Swords, by RR Martin",corpus/MARTIN_A_STORM_OF_SWORDS-pg3.txt,[A-Z]+[A-Z]+[A-Z]+,417469,95,fantasy,adventure,RR Martin,"A Storm of Swords, by RR Martin–F"
+4,"The Fellowship of the Ring, by JRR Tolkien",corpus/TOLKIEN_THE_FELLOWSHIP_OF_THE_RING-pg4.txt,_Chapter,180888,22,fantasy,adventure,JRR Tolkien,"The Fellowship of the Ring, by JRR Tolkien–F"
+16,"Peter Pan, by James M. Barrie",corpus/BARRIE_PETER_PAN-pg16.txt,((Chapter)\s+\D+),47631,17,childrensfantasy,adventure,James M. Barrie,"Peter Pan, by James M. Barrie–C"
+730,"Oliver Twist, by Charles Dickens",corpus/DICKENS_OLIVER_TWIST-pg730.txt,((CHAPTER)\s+\D+),160895,53,crime,satire,Charles Dickens,"Oliver Twist, by Charles Dickens–C"
+768,"Wuthering Heights, by Emily Brontë",corpus/BRONTE_WUTHERING_HEIGHTS-pg768.txt,((CHAPTER)\s+\D+),118361,34,gothic,tragic,Emily Brontë,"Wuthering Heights, by Emily Brontë–G"
+1260,"Jane Eyre, by Charlotte Brontë",corpus/BRONTE_JANE_EYRE-pg1260.txt,((CHAPTER)\s+\D+)|PREFACE,191636,39,gothic,romance,Charlotte Brontë,"Jane Eyre, by Charlotte Brontë–G"
+1400,"Great Expectations, by Charles Dickens",corpus/DICKENS_GREAT_EXPECTATIONS-pg1400.txt,((Chapter)\s+\D+),188910,59,gothic,regretful,Charles Dickens  ,"Great Expectations, by Charles Dickens–G"
+1727,"The Odyssey, by Homer",corpus/HOMER_THE_ODYSSEY-pg1727.txt,((BOOK)\s+\D+),118692,24,historical,serious,Homer,"The Odyssey, by Homer–H"
+6130,"The Iliad, by Homer",corpus/HOMER-THE-ILIAD-pg6130.txt,((BOOK)\s+\D+),152654,24,historical,serious,Homer,"The Iliad, by Homer–H"
+26654,"Peter and Wendy, by James Matthew Barrie",corpus/BARRIE_PETER_AND_WENDY-pg26654.txt,((CHAPTER)\s+\D+),48031,17,childrensfantasy,adventure,James M. Barrie,"Peter and Wendy, by James Matthew Barrie–C"
